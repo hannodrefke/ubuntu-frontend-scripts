@@ -1,6 +1,6 @@
-# ubuntu-scripts 🐧💻
+# ubuntu-frontend-scripts 🐧💻
 
-useful collection of bash scripts for frontend developers working in Ubuntu environment.
+Useful collection of bash scripts for frontend developers working in Ubuntu environment.
 
 
 ## update_vscode.sh
